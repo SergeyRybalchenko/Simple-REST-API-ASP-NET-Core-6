@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zWNq7ZpBFcG6IneDDxRrGUZi56kh1AZgtmpKMz5UDrc=",
+  "Source": "RecipeBookRestApi",
+  "BasePath": "_content/RecipeBookRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
